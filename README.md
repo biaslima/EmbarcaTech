@@ -33,7 +33,7 @@ Cada unidade contém:
 - **Anotações e Resumos**: Anotações e resumos feitos por mim a respeito dos conteúdos
 - **Projetos**: Trabalhos práticos mais avançados, com foco em sistemas embarcados.
 
-### Projetos Cooperativos (Gurpais)
+### Projetos Cooperativos (Grupais)
 
 Dentro do repositório, você encontrará uma ou mais pastas com projetos que foram colaborativos, que contém os projetos desenvolvidos em parceria com outros colegas ou integrantes da comunidade. O desenvolvimento destes projetos pode ter sido dividido entre diferentes participantes. O conteúdo de cada projeto pode incluir diferentes abordagens e contribuições de várias pessoas.
 
